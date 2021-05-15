@@ -11,6 +11,10 @@
 		6C89CB15263AA33F00488ED3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C89CB14263AA33F00488ED3 /* ContentView.swift */; };
 		6C89CB17263AA34000488ED3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C89CB16263AA34000488ED3 /* Assets.xcassets */; };
 		6C89CB1A263AA34000488ED3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C89CB19263AA34000488ED3 /* Preview Assets.xcassets */; };
+		6CABC52A265035ED004F9FA7 /* category.json in Resources */ = {isa = PBXBuildFile; fileRef = 6CABC526265035ED004F9FA7 /* category.json */; };
+		6CABC52B265035ED004F9FA7 /* player.json in Resources */ = {isa = PBXBuildFile; fileRef = 6CABC527265035ED004F9FA7 /* player.json */; };
+		6CABC52C265035ED004F9FA7 /* product.json in Resources */ = {isa = PBXBuildFile; fileRef = 6CABC528265035ED004F9FA7 /* product.json */; };
+		6CABC52D265035ED004F9FA7 /* brand.json in Resources */ = {isa = PBXBuildFile; fileRef = 6CABC529265035ED004F9FA7 /* brand.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +24,10 @@
 		6C89CB16263AA34000488ED3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6C89CB19263AA34000488ED3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6C89CB1B263AA34000488ED3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6CABC526265035ED004F9FA7 /* category.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = category.json; sourceTree = "<group>"; };
+		6CABC527265035ED004F9FA7 /* player.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = player.json; sourceTree = "<group>"; };
+		6CABC528265035ED004F9FA7 /* product.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = product.json; sourceTree = "<group>"; };
+		6CABC529265035ED004F9FA7 /* brand.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = brand.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +60,7 @@
 		6C89CB11263AA33F00488ED3 /* TheUnderWonder */ = {
 			isa = PBXGroup;
 			children = (
+				6CABC52E2650360A004F9FA7 /* Data */,
 				6C89CB12263AA33F00488ED3 /* TheUnderWonderApp.swift */,
 				6C89CB14263AA33F00488ED3 /* ContentView.swift */,
 				6C89CB16263AA34000488ED3 /* Assets.xcassets */,
@@ -67,6 +76,17 @@
 				6C89CB19263AA34000488ED3 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		6CABC52E2650360A004F9FA7 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				6CABC529265035ED004F9FA7 /* brand.json */,
+				6CABC526265035ED004F9FA7 /* category.json */,
+				6CABC527265035ED004F9FA7 /* player.json */,
+				6CABC528265035ED004F9FA7 /* product.json */,
+			);
+			path = Data;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,8 +146,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6CABC52B265035ED004F9FA7 /* player.json in Resources */,
+				6CABC52A265035ED004F9FA7 /* category.json in Resources */,
 				6C89CB1A263AA34000488ED3 /* Preview Assets.xcassets in Resources */,
 				6C89CB17263AA34000488ED3 /* Assets.xcassets in Resources */,
+				6CABC52C265035ED004F9FA7 /* product.json in Resources */,
+				6CABC52D265035ED004F9FA7 /* brand.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
