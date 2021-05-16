@@ -6,10 +6,12 @@
       "scale" : "1x"
     },
     {
+      "filename" : "doll-no2-1.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
+      "filename" : "doll-no2-2.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
