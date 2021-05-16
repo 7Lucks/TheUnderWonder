@@ -11,6 +11,8 @@ import SwiftUI
 
 //DATA
 
+let dollsPromo: [DollPromo] = Bundle.main.decode("dolls.json")
+
 //COLOR
 
 let colorBackground: Color = Color("ColorBackground")

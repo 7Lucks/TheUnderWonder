@@ -1,0 +1,22 @@
+[
+  {
+    "id" : 1,
+    "image" : "doll-promo1"
+  },
+  {
+    "id" : 2,
+    "image" : "doll-promo2"
+  },
+  {
+    "id" : 3,
+    "image" : "doll-promo3"
+  },
+  {
+    "id" : 4,
+    "image" : "doll-promo4"
+  },
+  {
+    "id" : 5,
+    "image" : "doll-promo5"
+  }
+]
