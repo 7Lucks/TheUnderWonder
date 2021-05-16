@@ -1,82 +1,82 @@
 [
   {
     "id" : 1,
-    "name" : "Helmet",
-    "image" : "icon-helmet"
+    "name" : "Body",
+    "image" : "icon-body"
   },
   {
     "id" : 2,
-    "name" : "Jersey",
-    "image" : "icon-jersey"
+    "name" : "Hand",
+    "image" : "icon-hand"
   },
   {
     "id" : 3,
-    "name" : "Gloves",
-    "image" : "icon-gloves"
+    "name" : "Breast",
+    "image" : "icon-breast"
   },
   {
     "id" : 4,
-    "name" : "Shoes",
-    "image" : "icon-shoes"
+    "name" : "Butt",
+    "image" : "icon-butt"
   },
   {
     "id" : 5,
-    "name" : "Shoulder Pads",
-    "image" : "icon-shoulder-pads"
+    "name" : "Foot",
+    "image" : "icon-foot"
   },
   {
     "id" : 6,
-    "name" : "Pad Girdle",
-    "image" : "icon-integrated-pad-girdle"
+    "name" : "Hair",
+    "image" : "icon-hair"
   },
   {
     "id" : 7,
-    "name" : "Football",
-    "image" : "icon-football"
+    "name" : "Arm",
+    "image" : "icon-arm"
   },
   {
     "id" : 8,
-    "name" : "Outerwear",
-    "image" : "icon-outerwear"
+    "name" : "Head",
+    "image" : "icon-head"
   },
   {
     "id" : 9,
-    "name" : "Ticket",
-    "image" : "icon-ticket"
+    "name" : "Heels",
+    "image" : "icon-heels"
   },
   {
     "id" : 10,
-    "name" : "Trophy",
-    "image" : "icon-trophy"
+    "name" : "Joint",
+    "image" : "icon-joint"
   },
   {
     "id" : 11,
-    "name" : "Energy Drink",
-    "image" : "icon-energy-drink"
+    "name" : "Leg",
+    "image" : "icon-leg"
   },
   {
     "id" : 12,
-    "name" : "PPE  Facemask",
-    "image" : "icon-ppe-facemask"
+    "name" : "Madhatter",
+    "image" : "icon-madhatter"
   },
   {
     "id" : 13,
-    "name" : "Cheerleading Clothes",
-    "image" : "icon-cheerleading-clothes"
+    "name" : "Queen",
+    "image" : "icon-queen"
   },
   {
     "id" : 14,
-    "name" : "Cheerleading Gears",
-    "image" : "icon-cheerleading-gear"
+    "name" : "Rabbit",
+    "image" : "icon-rabbit"
   },
   {
     "id" : 15,
-    "name" : "Whistle",
-    "image" : "icon-whistle"
+    "name" : "Teddy-bear",
+    "image" : "icon-teddy-bear"
   },
   {
     "id" : 16,
-    "name" : "Stopwatch",
-    "image" : "icon-stopwatch"
+    "name" : "Unicorn",
+    "image" : "icon-unicorn"
   }
 ]
