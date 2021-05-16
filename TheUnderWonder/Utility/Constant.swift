@@ -5,7 +5,7 @@
 //  Created by Дмитрий Игнатьев on 15.05.2021.
 //
 
-//For Swift gloobal constance
+//For Swift global constants, to collect colours, fonts, images, strings, url's
 
 import SwiftUI
 
