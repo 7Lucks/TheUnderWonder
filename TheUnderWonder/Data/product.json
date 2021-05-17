@@ -1,7 +1,7 @@
 [
   {
     "id" : 1,
-    "name" : "Red-haired Franch girl doll",
+    "name" : "Red-hair girl",
     "image" : "doll-no6",
     "price" : 199,
     "description" : "discription for red hair doll (6)",
@@ -25,7 +25,7 @@
   },
   {
     "id" : 3,
-    "name" : "Brown dress unicorn doll",
+    "name" : "Brown Unicorn",
     "image" : "doll-no3",
     "price" : 189,
     "description" : "here will be discription for a Brown dress unicorn doll",
@@ -37,7 +37,7 @@
   },
   {
     "id" : 4,
-    "name" : "Red Unicorn doll",
+    "name" : "Red Unicorn",
     "image" : "doll-no7",
     "price" : 89,
     "description" : "red hair, brown sundress, should we wish more? ",
@@ -49,7 +49,7 @@
   },
   {
     "id" : 5,
-    "name" : "spring unicorn",
+    "name" : "Spring Unicorn",
     "image" : "doll-no8",
     "price" : 364,
     "description" : "just look at her harvest",
@@ -61,7 +61,7 @@
   },
   {
     "id" : 7,
-    "name" : "Blonde Unicorn girl",
+    "name" : "Blonde Unicorn",
     "image" : "doll-no1",
     "price" : 234,
     "description" : "There is sexy blonde unicorn",
@@ -73,7 +73,7 @@
   },
   {
     "id" : 6,
-    "name" : "Gold queen red hair",
+    "name" : "Golden queen",
     "image" : "doll-no5",
     "price" : 279,
     "description" : "this queen is a hot babe with her crown",
@@ -85,7 +85,7 @@
   },
   {
     "id" : 8,
-    "name" : "The Mad Hatter",
+    "name" : "Mad-Hatter",
     "image" : "doll-no4",
     "price" : 314,
     "description" : "yep, this is a mad hatter doll ",
