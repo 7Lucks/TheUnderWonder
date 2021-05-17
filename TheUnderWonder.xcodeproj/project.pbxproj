@@ -37,6 +37,8 @@
 		6CABC55D26527E74004F9FA7 /* NavigationBarDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CABC55C26527E74004F9FA7 /* NavigationBarDetailView.swift */; };
 		6CABC55F26528035004F9FA7 /* HeaderDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CABC55E26528035004F9FA7 /* HeaderDetailView.swift */; };
 		6CABC56126528154004F9FA7 /* TopPartDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CABC56026528154004F9FA7 /* TopPartDetailView.swift */; };
+		6CABC563265295F3004F9FA7 /* CustomShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CABC562265295F3004F9FA7 /* CustomShape.swift */; };
+		6CABC56526529812004F9FA7 /* RatingSizesDetailedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CABC56426529812004F9FA7 /* RatingSizesDetailedView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -72,6 +74,8 @@
 		6CABC55C26527E74004F9FA7 /* NavigationBarDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationBarDetailView.swift; sourceTree = "<group>"; };
 		6CABC55E26528035004F9FA7 /* HeaderDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderDetailView.swift; sourceTree = "<group>"; };
 		6CABC56026528154004F9FA7 /* TopPartDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopPartDetailView.swift; sourceTree = "<group>"; };
+		6CABC562265295F3004F9FA7 /* CustomShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomShape.swift; sourceTree = "<group>"; };
+		6CABC56426529812004F9FA7 /* RatingSizesDetailedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingSizesDetailedView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -180,6 +184,7 @@
 				6CABC55C26527E74004F9FA7 /* NavigationBarDetailView.swift */,
 				6CABC55E26528035004F9FA7 /* HeaderDetailView.swift */,
 				6CABC56026528154004F9FA7 /* TopPartDetailView.swift */,
+				6CABC56426529812004F9FA7 /* RatingSizesDetailedView.swift */,
 			);
 			name = Detail;
 			sourceTree = "<group>";
@@ -207,6 +212,7 @@
 			isa = PBXGroup;
 			children = (
 				6CABC53626504122004F9FA7 /* Constant.swift */,
+				6CABC562265295F3004F9FA7 /* CustomShape.swift */,
 			);
 			path = Utility;
 			sourceTree = "<group>";
@@ -300,10 +306,12 @@
 				6CABC54726518702004F9FA7 /* CategoryModel.swift in Sources */,
 				6CABC53B2650F568004F9FA7 /* NavigationBarView.swift in Sources */,
 				6CABC54D26518DFB004F9FA7 /* SectionView.swift in Sources */,
+				6CABC56526529812004F9FA7 /* RatingSizesDetailedView.swift in Sources */,
 				6CABC5572652465D004F9FA7 /* BrandItemView.swift in Sources */,
 				6CABC54926518877004F9FA7 /* CategoryItemView.swift in Sources */,
 				6CABC54526511910004F9FA7 /* FeaturedTabView.swift in Sources */,
 				6CABC55B26524A69004F9FA7 /* ProductDetailedView.swift in Sources */,
+				6CABC563265295F3004F9FA7 /* CustomShape.swift in Sources */,
 				6CABC53F26510E1B004F9FA7 /* DollModel.swift in Sources */,
 				6CABC555265245D1004F9FA7 /* BrandModel.swift in Sources */,
 				6CABC54F26523E31004F9FA7 /* TitleView.swift in Sources */,
